@@ -20,7 +20,6 @@ I'm Sashank Bhamidi, a dedicated DevOps Engineer passionate about optimizing and
 
 **BSc. (Honours) Cloud Computing and Big Data**  
 *Reva University, Bangalore*  
-*Expected Graduation: 2025*
 
 ### 📜 Certifications
 
