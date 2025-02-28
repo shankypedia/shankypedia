@@ -14,7 +14,7 @@
 
 ### 👤 About Me
 
-I'm Sashank Bhamidi, a dedicated DevOps Engineer passionate about optimizing and automating cloud infrastructure. Currently pursuing a BSc. (Honours) in Cloud Computing and Big Data at Reva University, I thrive on challenges that drive innovation. My focus is on CI/CD pipelines, containerization, and infrastructure as code. I'm always eager to learn and collaborate on exciting projects in the tech industry.
+I'm Sashank Bhamidi, a dedicated DevOps Engineer passionate about optimizing and automating cloud infrastructure. BSc. (Honours) in Cloud Computing and Big Data at Reva University, I thrive on challenges that drive innovation. My focus is on CI/CD pipelines, containerization, and infrastructure as code. I'm always eager to learn and collaborate on exciting projects in the tech industry.
 
 ### 🎓 Education
 
