@@ -36,7 +36,6 @@ I'm Sashank Bhamidi, a dedicated DevOps Engineer passionate about optimizing and
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
   <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E.svg?logo=yaml&logoColor=white">
   <img alt="Groovy" src="https://img.shields.io/badge/Groovy-4298B8.svg?logo=apache-groovy&logoColor=white">
 </p>
@@ -74,7 +73,6 @@ I'm Sashank Bhamidi, a dedicated DevOps Engineer passionate about optimizing and
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white">
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=digitalocean&logoColor=white">
   <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?logo=oracle&logoColor=white">
 </p>
 
