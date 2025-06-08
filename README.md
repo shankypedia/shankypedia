@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <em>Note: Stats above show public activity only. Total commits across all projects: Much higher due to private startup work</em>
+  <em>Note: Stats above show public activity only. Total commits across all projects: Much higher due to private work</em>
 </p>
 
 <p align="center">
