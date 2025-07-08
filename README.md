@@ -16,8 +16,8 @@
 ---
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=shankypedia&show_icons=true&theme=minimal&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=shankypedia&show_icons=true&theme=minimal&count_private=true&include_all_commits=true" alt="Sashank's GitHub Stats" />
+  <a href="https://github-readme-stats.vercel.app/api?username=sashankbhamidi&show_icons=true&theme=minimal&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=sashankbhamidi&show_icons=true&theme=minimal&count_private=true&include_all_commits=true" alt="Sashank's GitHub Stats" />
   </a>
 </p>
 
